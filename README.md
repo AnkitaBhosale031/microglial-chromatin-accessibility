@@ -364,11 +364,11 @@ The comparison is based on the selected public datasets. Differences may reflect
 
 This repository documents a bioinformatics research project comparing chromatin accessibility in Alzheimer's disease (AD) and medulloblastoma (MB).
 
-**Research Guide:** VaibhuJain — Research guidance, methodological supervision, and scientific interpretation.
-
-**Project Researcher:** Ankita Bhosale — Project implementation, data analysis, and repository maintenance.
+- **Research Guide:** [Vaibhavi Jain](https://github.com/VaibuJain) — Research guidance, methodological supervision, and scientific interpretation.
+- **Project Researcher:** Ankita Bhosale — Project implementation, data analysis, and repository maintenance.
 
 Contributions and research roles are acknowledged according to the work performed by each team member.
+
 ## References
 
 - Andrews, S. (2010). *FastQC: A quality control tool for high throughput sequence data.*
